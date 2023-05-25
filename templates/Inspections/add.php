@@ -86,11 +86,11 @@ echo $this->Html->script([
         CKEDITOR.ClassicEditor.create(document.getElementById(""), {
             // https://ckeditor.com/docs/ckeditor5/latest/features/toolbar/toolbar.html#extended-toolbar-configuration-format
             ckbox: {
-                tokenUrl: 'https://96945.cke-cs.com/token/dev/DJCu0e3AP18eQq3rVOvvuVMcnpbUe8TIYpDy?limit=10'
+                tokenUrl: ''
             },
             cloudServices: {
-                tokenUrl: 'https://96945.cke-cs.com/token/dev/6EUT5q9UeHgJa6s6bv38RUGvg8PLZ94bOP8H?limit=10',
-                uploadUrl: 'https://96945.cke-cs.com/easyimage/upload/'
+                tokenUrl: '',
+                uploadUrl: ''
             },
             toolbar: {
                 items: [
