@@ -1,4 +1,5 @@
-# CakePHP Application Skeleton
+# FIT3048 Industry experience studio project 2 - S1 2023
+# Including quiz, PGP example and Code
 
 ![Build Status](https://github.com/cakephp/app/actions/workflows/ci.yml/badge.svg?branch=master)
 [![Total Downloads](https://img.shields.io/packagist/dt/cakephp/app.svg?style=flat-square)](https://packagist.org/packages/cakephp/app)
